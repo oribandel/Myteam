@@ -1,2 +1,2 @@
 # myteam
-Golden Bay Football mini home page
+Chicago Bears Foorball page
